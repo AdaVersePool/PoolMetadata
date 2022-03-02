@@ -1,16 +1,17 @@
 {
-"name": "AdaVerse",
-"description": "Delegate to AdaVerse and earn more than just rewards while supporting the Metaverse on the Cardano Blockchain",
-"ticker": "ADAV",
-"homepage": "https://twitter.com/AdaVersePool",
-"info": {
-        "url_png_icon_64x64": "https://d1fdloi71mui9q.cloudfront.net/yVBJhZdTc6NMGr4Vytvw_dvlZR9RSw6y3TsQq",
-        "url_png_logo": "https://d1fdloi71mui9q.cloudfront.net/yVBJhZdTc6NMGr4Vytvw_dvlZR9RSw6y3TsQq",
-        "location": "Metaverse of Cardano",
-        "social": {
-            "twitter_handle": "AdaVersePool",
-            "telegram_handle": "AdaVersePool",
-            "discord_handle": "ADAV#6657",
-            "github_handle": "AdaVersePool"
-        }
+        "name": "AdaVerse",
+	"description": "Delegate to AdaVerse and earn more than just rewards while supporting the Metaverse on the Cardano Blockchain",
+	"ticker": "ADAV",
+	"homepage": "https://twitter.com/AdaVersePool",
+	"info": {
+		"url_png_icon_64x64": "https://d1fdloi71mui9q.cloudfront.net/yVBJhZdTc6NMGr4Vytvw_dvlZR9RSw6y3TsQq",
+		"url_png_logo": "https://d1fdloi71mui9q.cloudfront.net/yVBJhZdTc6NMGr4Vytvw_dvlZR9RSw6y3TsQq",
+		"location": "Metaverse of Cardano",
+		"social": {
+			"twitter_handle": "AdaVersePool",
+			"telegram_handle": "AdaVersePool",
+			"discord_handle": "ADAV#6657",
+			"github_handle": "AdaVersePool"
+		}
+	}
 }
